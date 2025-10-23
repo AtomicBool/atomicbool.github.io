@@ -1,9 +1,10 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: bookshelf/movies
 permalink: /books/
 nav: false
 collection: books
 ---
 
 ## Books that I am reading, have read, or will read
+## Movies that I have watched, or will
