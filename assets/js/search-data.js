@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -49,8 +42,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ming_dynesty_in_decline/";
-            },},{id: "books-三体ii-黑暗森林-the-dark-forest-the-three-body-problem-series-book-2",
-          title: '三体II：黑暗森林 (The Dark Forest [The Three-Body Problem Series Book 2])',
+            },},{id: "books-三体ii-黑暗森林",
+          title: '三体II：黑暗森林',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_body_dark_forest/";
