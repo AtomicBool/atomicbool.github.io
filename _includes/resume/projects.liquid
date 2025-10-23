@@ -8,6 +8,8 @@
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
             {% assign date = startDate | append: ' - ' %}
             {% assign date = date | append: endDate %}
+          {% else if content.date %}
+            {% assign date = content.date | split: '-' | join: '.' %}
           {% else %}
             {% assign date = '' %}
           {% endif %}
