@@ -37,9 +37,11 @@ jobs:
         if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
         uses: actions/upload-artifact@v4
         with:
-          name: HTML Diff
-          path: diff.html
-          retention-days: 7
+          name: Diff Artifacts
+          path: |
+            diff.html
+            diff.txt
+          retention-days: 3
       - name: Dispatch information to repository 🗣️
         if: ${{ failure() && steps.prettier.conclusion == 'failure' && github.event_name == 'pull_request' }}
         uses: peter-evans/repository-dispatch@v2
