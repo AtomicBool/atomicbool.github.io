@@ -5,7 +5,7 @@
     "image": "",
     "email": "raymon8331@gmail.com",
     "url": "https://atomicbool.github.io",
-    "summary": "Student pursuing a bachelor's degree in Computer Science",
+    "summary": "Student pursuing a bachelor's degree in Computer Science ",
     "location": {
       "city": "Hamilton",
       "countryCode": "CA",
@@ -15,21 +15,28 @@
   "projects": [
     {
       "name": "Collision Detection",
-      "summary": "A simple 2D collision detection project written in JAVA using AABB(axis-aligned bounding boxes) and Separating Axis Theorem (SAT) algorithms <br> AABB groups robots supporting abstraction of different structures such as `Arm on an Elevator`, and allowing custom translation and rotation to specific stucture",
+      "summary": "A simple 2D collision detection project written in JAVA using AABB(axis-aligned bounding boxes) and Separating Axis Theorem (SAT) algorithms. AABB groups robots supporting abstraction of different structures such as `Arm on an Elevator`, and allowing custom translation and rotation to specific stucture",
       "date": "2025-05",
       "url": "https://github.com/AtomicBool/CollisionDetection"
     },
     {
       "name": "Name not Decided Yet",
-      "summary": "External tool based on RSA encrypt messages for safe communication under survilliance (working in progress)",
+      "summary": "External tool based on RSA that encrypts messages to obtain safe communication under survilliance (working in progress)",
       "date": "2025",
       "url": ""
     },
     {
       "name": "Animation on the proof of dot product",
-      "summary": "Viedeo introduces the proof of dot product formula using law of cosines that took me several hours to animate using Manim and Python.<br> Link to the video: https://www.bilibili.com/video/BV11aW2znEdQ",
+      "summary": "Viedeo introduces the proof of dot product formula using law of cosines, which took me several hours to animate using Manim and Python.<br> Link to the video: https://www.bilibili.com/video/BV11aW2znEdQ",
       "date": "2025-10-21",
       "url": "https://github.com/AtomicBool/MathAnims/tree/main/2025/VectorProduct"
+    },
+    {
+      "name": "Previous Reverse Engineering Projects",
+      "summary": "Software that bypass anti-cheat through Virtual Machine and using socket for communication in order to run it in the host machine. See skills section for more technical features. With some of my previous projects are public on Github, the one using socket has been set to private for poor coding style. However, it can be provide if needed.",
+      "startDate": "2022-11",
+      "endDate": "2024-06",
+      "url": "https://atomicbool.github.io/repositories/"
     }
   ],
   "club": [
@@ -50,8 +57,16 @@
       "location": "Hamilton, Ontario",
       "startDate": "2023-08",
       "endDate": "2026-05",
-      "score": "96/100 (rank not available)",
-      "courses": ["Advanced Functions", "Calculus and Vectors", "English", "Computer Science", "Physics", "Chemistry"]
+      "score": "Overall Average: 96/100",
+      "courses": ["Advanced Functions 99/100", "Calculus and Vectors", "English 94/100", "Computer Science", "Physics 96/100", "Chemistry 95/100"]
+    },
+    {
+      "studyType": "Advance Placement (exam-only)",
+      "location": "self-teached",
+      "startDate": "2025-03",
+      "endDate": "2025-05",
+      "score": "5/5 in all 3 subjects. One thing to note is that I started Calculus BC in Januray 2025, completed unit 1 to 6, but stopped until March Break",
+      "courses": ["Calculus BC", "Computer Science", "Physics C Mechanics"]
     }
   ],
   "awards": [

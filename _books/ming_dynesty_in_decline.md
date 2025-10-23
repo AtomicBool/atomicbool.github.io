@@ -7,5 +7,5 @@ categories: history
 tags: history
 started: 2025-10
 released: 1997-05
-status: started # started or finished
+status: queued # abandoned,finished,interested,paused,queued,reading,reread
 ---
