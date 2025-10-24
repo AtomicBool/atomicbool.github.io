@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Forrest Gump
-cover: https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.webp
+cover: /assets/img/book_covers/forrest_gump.jpg
 categories:
 tags: movies
 date: 2024-01-01

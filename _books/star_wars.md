@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Star Wars series (EXCEPT DISNEY ONES)
-cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p533908031.webp
+cover: /assets/img/book_covers/star_wars.jpg
 categories:
 tags: movies
 date: 2024-01-01

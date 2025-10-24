@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: The Butterfly Effect
-cover: https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.webp
+cover: /assets/img/book_covers/the_butterfly_effect.jpg
 categories:
 tags: movies
 date: 2024-01-01

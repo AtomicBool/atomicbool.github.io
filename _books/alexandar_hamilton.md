@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Hamilton
-cover: https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924038747.webp
+cover: /assets/img/book_covers/alexandar_hamilton.jpg
 categories:
 tags: movies
 started: 2025-10-23

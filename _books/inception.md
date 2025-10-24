@@ -2,7 +2,7 @@
 layout: book-review
 title: Inception
 author: Christopher Nolan
-cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.webp
+cover: /assets/img/book_covers/inception.jpg
 categories: science-fiction action
 tags: movie
 date: 2024-01-01

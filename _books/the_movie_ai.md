@@ -2,7 +2,7 @@
 layout: book-review
 title: Artificial Intelligence
 author: Steven Spielberg
-cover: https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792257137.webp
+cover: /assets/img/book_covers/the_movie_ai.jpg
 categories:
 tags: movies
 date: 2024-01-01

@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: The Matrix series
-cover: https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.webp
+cover: /assets/img/book_covers/the_matrix.jpg
 categories:
 tags: movies
 date: 2024-01-01

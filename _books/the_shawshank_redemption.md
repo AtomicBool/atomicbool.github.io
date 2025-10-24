@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: The Shawshank Redemption
-cover: https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp
+cover: /assets/img/book_covers/the_shawshank_redemption.jpg
 categories: action
 tags: movies
 date: 2024-01-01

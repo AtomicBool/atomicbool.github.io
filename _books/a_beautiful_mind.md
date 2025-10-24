@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: A Beautiful Mind
-cover: https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.webp
+cover: /assets/img/book_covers/a_beautiful_mind.jpg
 categories:
 tags: movies
 date: 2024-01-01

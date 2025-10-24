@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: The Truman Show
-cover: https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.webp
+cover: /assets/img/book_covers/the_truman_show.jpg
 categories:
 tags: movies
 date: 2024-01-01

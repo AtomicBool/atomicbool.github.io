@@ -2,7 +2,7 @@
 layout: book-review
 title: The Prestige (致命魔术)
 author: Christopher Nolan
-cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.webp
+cover: /assets/img/book_covers/the_prestige.jpg
 categories:
 tags: movies
 date: 2024-01-01

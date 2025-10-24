@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Titanic
-cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.webp
+cover: /assets/img/book_covers/titanic.jpg
 categories:
 tags: movies
 date: 2024-01-01

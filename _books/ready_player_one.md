@@ -2,7 +2,7 @@
 layout: book-review
 title: Ready Player One
 author: Steven Spielberg
-cover: https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.webp
+cover: /assets/img/book_covers/ready_player_one.jpg
 categories:
 tags: movies
 date: 2024-01-01
