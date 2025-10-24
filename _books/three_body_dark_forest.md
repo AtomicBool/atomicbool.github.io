@@ -4,7 +4,7 @@ title: 三体II：黑暗森林
 author: 刘慈欣
 cover: assets/img/book_covers/三体二.jpg
 categories: science-fiction
-tags: novel
+tags: books
 started: 2025-09
 finished: 2025-09
 released: 2008-05

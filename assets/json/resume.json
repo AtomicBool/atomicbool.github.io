@@ -15,13 +15,13 @@
   "projects": [
     {
       "name": "Collision Detection",
-      "summary": "A simple 2D collision detection project written in JAVA using AABB(axis-aligned bounding boxes) and Separating Axis Theorem (SAT) algorithms. AABB groups robots supporting abstraction of different structures such as `Arm on an Elevator`, and allowing custom translation and rotation to specific stucture",
+      "summary": "A simple 2D collision detection project written in JAVA using AABB(axis-aligned bounding boxes) and Separating Axis Theorem (SAT) algorithms. AABB groups robots supporting the abstraction of different structures, such as `Arm on an Elevator`, and allowing custom translation and rotation to specific structures",
       "date": "2025-05",
       "url": "https://github.com/AtomicBool/CollisionDetection"
     },
     {
       "name": "Name not Decided Yet",
-      "summary": "External tool based on RSA that encrypts messages to obtain safe communication under survilliance (working in progress)",
+      "summary": "External tool based on RSA that encrypts messages to obtain safe communication under surveillance (working in progress)",
       "date": "2025",
       "url": ""
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "Previous Reverse Engineering Projects",
-      "summary": "Software that bypass anti-cheat through Virtual Machine and using socket for communication in order to run it in the host machine. See skills section for more technical features. With some of my previous projects are public on Github, the one using socket has been set to private for poor coding style. However, it can be provide if needed.",
+      "summary": "Software that bypasses anti-cheat through Virtual Machine DMA (direct memory access) and uses SOCKET for communication to run it in the host machine. See the `skills` section for more technical features. With some of my previous projects publicly available on GitHub, the one using SOCKS has been set to private due to poor coding style. However, it can be provided if needed.",
       "startDate": "2022-11",
       "endDate": "2024-06",
       "url": "https://atomicbool.github.io/repositories/"
@@ -67,7 +67,7 @@
       "location": "self-teached",
       "startDate": "2025-03",
       "endDate": "2025-05",
-      "score": "5/5 in all 3 subjects. One thing to note is that I started Calculus BC in Januray 2025, completed unit 1 to 6, but stopped until March Break",
+      "score": "5/5 in all three subjects. One thing to note is that I started Calculus BC in January 2025, completed units 1 to 6, but stopped until March Break",
       "courses": ["Calculus BC", "Computer Science", "Physics C Mechanics"]
     }
   ],
@@ -77,7 +77,7 @@
       "date": "2024",
       "awarder": "University of Waterloo",
       "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024CCCResults.pdf",
-      "summary": "Achieved score of 68/75 in the 2024 CCC Junior Division, and 27/75 in the 2025 CCC Senior Division."
+      "summary": "Achieved a score of 68/75 in the 2024 CCC Junior Division, and 27/75 in the 2025 CCC Senior Division."
     }
   ],
   "skills": [

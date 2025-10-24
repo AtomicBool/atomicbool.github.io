@@ -10,4 +10,4 @@ collection: books
 
 ## Movies that I have watched, or will
 
-Contents with unknown date will be added to year 2024
+Contents with an unknown date are in the year 2024 group
