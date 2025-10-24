@@ -47,21 +47,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/a_beautiful_mind/";
-            },},{id: "books-hamilton",
-          title: 'Hamilton',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/alexandar_hamilton/";
             },},{id: "books-back-to-the-future-series",
           title: 'Back to the Future series',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/back_to_future/";
-            },},{id: "books-赤壁之战-京剧",
-          title: '赤壁之战 (京剧)',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/battle_of_red_cliffs/";
             },},{id: "books-catch-me-if-you-can",
           title: 'Catch Me If You Can',
           description: "",
@@ -87,11 +77,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/interstellar/";
-            },},{id: "books-万历十五年-ming-dynesty-in-decline",
-          title: '万历十五年 (Ming Dynesty in Decline)',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/ming_dynesty_in_decline/";
             },},{id: "books-無間道",
           title: '無間道',
           description: "",
@@ -162,21 +147,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_truman_show/";
-            },},{id: "books-三体ii-黑暗森林",
-          title: '三体II：黑暗森林',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/three_body_dark_forest/";
             },},{id: "books-titanic",
           title: 'Titanic',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/titanic/";
+            },},{id: "books-三体ii-黑暗森林",
+          title: '三体II：黑暗森林',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/three_body_dark_forest/";
             },},{id: "books-v-for-vendetta",
           title: 'V for Vendetta',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/v_for_vendetta/";
+            },},{id: "books-万历十五年-ming-dynesty-in-decline",
+          title: '万历十五年 (Ming Dynesty in Decline)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ming_dynesty_in_decline/";
+            },},{id: "books-hamilton",
+          title: 'Hamilton',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/alexandar_hamilton/";
+            },},{id: "books-赤壁之战-京剧",
+          title: '赤壁之战 (京剧)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/battle_of_red_cliffs/";
             },},{
         id: 'social-email',
         title: 'email',
