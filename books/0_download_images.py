@@ -32,11 +32,11 @@ def process_md_file(md_file):
             img = img.convert('RGB')
         
         # 保存为JPG（直接保存在当前目录）
-        output_path = f"{base_name}.jpg"
+        output_path = f"../assets/img/book_covers/{base_name}.jpg"
         img.save(output_path, "JPEG", quality=90)
         
         # 更新Markdown内容中的链接路径
-        new_cover = f"cover: /assets/img/book_covers/{base_name}.jpg"
+        new_cover = f"cover: assets/img/book_covers/{base_name}.jpg"
         new_content = re.sub(r'cover:\s*https?://[^\s]+', new_cover, content)
         
         # 写回文件
