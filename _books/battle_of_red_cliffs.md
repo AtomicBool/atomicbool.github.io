@@ -5,6 +5,7 @@ cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2900364851.we
 categories:
 tags: movies
 started: 2025-10-24
+date: 2025-10-24
 status: interested # abandoned,finished,interested,paused,queued,reading,reread
 ---
 

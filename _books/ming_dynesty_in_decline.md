@@ -5,7 +5,8 @@ author: 黄仁宇 (Ray Huang)
 cover: https://img9.doubanio.com/view/subject/s/public/s1800355.jpg
 categories: history
 tags: books
-started: 2025-10
+started: 2025-10-19
+date: 2025-10-19
 released: 1997-05
 status: reading # abandoned,finished,interested,paused,queued,reading,reread
 ---

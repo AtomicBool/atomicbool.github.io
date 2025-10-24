@@ -7,6 +7,7 @@ categories: science-fiction
 tags: books
 started: 2025-09
 finished: 2025-09
+date: 2025-09
 released: 2008-05
 status: finished # abandoned,finished,interested,paused,queued,reading,reread
 ---
