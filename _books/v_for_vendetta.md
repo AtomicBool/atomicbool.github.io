@@ -5,7 +5,7 @@ cover: https://m.media-amazon.com/images/M/MV5BMTMyMzQ3NzM2OV5BMl5BanBnXkFtZTcwN
 categories: science-fiction dystopian action
 tags: movies
 started: 2025-10
-date: 2025-09
+date: 2025-10-03
 released: 2005
 status: finished # abandoned,finished,interested,paused,queued,reading,reread
 ---
