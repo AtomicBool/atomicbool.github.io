@@ -37,16 +37,146 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-万历十五年-ming-dynesty-in-decline",
+            },{id: "books-3-idiots",
+          title: '3 Idiots',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/3_idiots/";
+            },},{id: "books-a-beautiful-mind",
+          title: 'A Beautiful Mind',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_beautiful_mind/";
+            },},{id: "books-hamilton",
+          title: 'Hamilton',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/alexandar_hamilton/";
+            },},{id: "books-back-to-the-future-series",
+          title: 'Back to the Future series',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/back_to_future/";
+            },},{id: "books-赤壁之战-京剧",
+          title: '赤壁之战 (京剧)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/battle_of_red_cliffs/";
+            },},{id: "books-catch-me-if-you-can",
+          title: 'Catch Me If You Can',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/catch_me_if_u_can/";
+            },},{id: "books-我不是药神",
+          title: '我不是药神',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dying_to_survive/";
+            },},{id: "books-forrest-gump",
+          title: 'Forrest Gump',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/forrest_gump/";
+            },},{id: "books-inception",
+          title: 'Inception',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/inception/";
+            },},{id: "books-interstellar",
+          title: 'Interstellar',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/interstellar/";
+            },},{id: "books-万历十五年-ming-dynesty-in-decline",
           title: '万历十五年 (Ming Dynesty in Decline)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ming_dynesty_in_decline/";
+            },},{id: "books-無間道",
+          title: '無間道',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mou_gaan_dou/";
+            },},{id: "books-batman-begins-蝙蝠侠-侠影之谜",
+          title: 'Batman Begins (蝙蝠侠：侠影之谜)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nolan_batman_1/";
+            },},{id: "books-the-dark-knight-蝙蝠侠-黑暗骑士",
+          title: 'The Dark Knight (蝙蝠侠：黑暗骑士)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nolan_batman_2/";
+            },},{id: "books-the-dark-knight-rises-蝙蝠侠-黑暗骑士崛起",
+          title: 'The Dark Knight Rises (蝙蝠侠：黑暗骑士崛起)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nolan_batman_3/";
+            },},{id: "books-ready-player-one",
+          title: 'Ready Player One',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ready_player_one/";
+            },},{id: "books-star-wars-series-except-disney-ones",
+          title: 'Star Wars series (EXCEPT DISNEY ONES)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/star_wars/";
+            },},{id: "books-the-butterfly-effect",
+          title: 'The Butterfly Effect',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_butterfly_effect/";
+            },},{id: "books-la-leggenda-del-pianista-sull-39-oceano-海上钢琴师",
+          title: 'La leggenda del pianista sull&amp;#39;oceano (海上钢琴师)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_legend_of_1900/";
+            },},{id: "books-the-matrix-series",
+          title: 'The Matrix series',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_matrix/";
+            },},{id: "books-artificial-intelligence",
+          title: 'Artificial Intelligence',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_movie_ai/";
+            },},{id: "books-the-prestige-致命魔术",
+          title: 'The Prestige (致命魔术)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_prestige/";
+            },},{id: "books-the-shawshank-redemption",
+          title: 'The Shawshank Redemption',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_shawshank_redemption/";
+            },},{id: "books-the-terminal",
+          title: 'The Terminal',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_terminal/";
+            },},{id: "books-the-truman-show",
+          title: 'The Truman Show',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_truman_show/";
             },},{id: "books-三体ii-黑暗森林",
           title: '三体II：黑暗森林',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_body_dark_forest/";
+            },},{id: "books-titanic",
+          title: 'Titanic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/titanic/";
+            },},{id: "books-v-for-vendetta",
+          title: 'V for Vendetta',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/v_for_vendetta/";
             },},{
         id: 'social-email',
         title: 'email',
