@@ -2,7 +2,7 @@
 layout: book-review
 title: Back to the Future series
 author: Steven Spielberg
-cover: /assets/img/book_covers/back_to_future.jpg
+cover: assets/img/book_covers/back_to_future.jpg
 categories:
 tags: movies
 date: 2024-01-01

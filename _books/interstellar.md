@@ -2,7 +2,7 @@
 layout: book-review
 title: Interstellar
 author: Christopher Nolan
-cover: /assets/img/book_covers/interstellar.jpg
+cover: assets/img/book_covers/interstellar.jpg
 categories:
 tags: movies
 date: 2024-01-01

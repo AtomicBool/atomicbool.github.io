@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Titanic
-cover: /assets/img/book_covers/titanic.jpg
+cover: assets/img/book_covers/titanic.jpg
 categories:
 tags: movies
 date: 2024-01-01

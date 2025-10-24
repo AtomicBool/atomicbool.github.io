@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 無間道
-cover: /assets/img/book_covers/mou_gaan_dou.jpg
+cover: assets/img/book_covers/mou_gaan_dou.jpg
 categories:
 tags: movies
 date: 2024-01-01

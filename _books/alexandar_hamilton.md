@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Hamilton
-cover: /assets/img/book_covers/alexandar_hamilton.jpg
+cover: assets/img/book_covers/alexandar_hamilton.jpg
 categories:
 tags: movies
 started: 2025-10-23

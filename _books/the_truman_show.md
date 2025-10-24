@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: The Truman Show
-cover: /assets/img/book_covers/the_truman_show.jpg
+cover: assets/img/book_covers/the_truman_show.jpg
 categories:
 tags: movies
 date: 2024-01-01

@@ -5,7 +5,7 @@ nav: true
 nav_order: 9
 dropdown: true
 children:
-  - title: bookshelf/movies
+  - title: The Library
     permalink: /books/
   - title: divider
   - title: blog

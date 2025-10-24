@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 我不是药神
-cover: /assets/img/book_covers/dying_to_survive.jpg
+cover: assets/img/book_covers/dying_to_survive.jpg
 categories:
 tags: movies
 date: 2024-01-01

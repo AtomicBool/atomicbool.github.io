@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 3 Idiots
-cover: /assets/img/book_covers/3_idiots.jpg
+cover: assets/img/book_covers/3_idiots.jpg
 categories:
 tags: movies
 date: 2024-01-01

@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Forrest Gump
-cover: /assets/img/book_covers/forrest_gump.jpg
+cover: assets/img/book_covers/forrest_gump.jpg
 categories:
 tags: movies
 date: 2024-01-01

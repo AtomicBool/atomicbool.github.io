@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 赤壁之战 (京剧)
-cover: /assets/img/book_covers/battle_of_red_cliffs.jpg
+cover: assets/img/book_covers/battle_of_red_cliffs.jpg
 categories:
 tags: movies
 started: 2025-10-24

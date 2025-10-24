@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: V for Vendetta
-cover: https://m.media-amazon.com/images/M/MV5BMTMyMzQ3NzM2OV5BMl5BanBnXkFtZTcwNjc3ODcyMQ@@._V1_.jpg
+cover: assets/img/book_covers/v_for_vendetta.jpg
 categories: science-fiction dystopian action
 tags: movies
 started: 2025-10
