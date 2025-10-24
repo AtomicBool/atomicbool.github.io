@@ -2,7 +2,7 @@
 layout: book-review
 title: Titanic
 cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.webp
-categories: 
+categories:
 tags: movies
 finished: 2024
 released: 1998-04-03

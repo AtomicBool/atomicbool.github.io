@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Working on undergraduate applications, having been a former programmer on the FRC team back in high school. 
-Have had experience in video game reverse engineering and the basics of control theory. 
+Working on undergraduate applications, having been a former programmer on the FRC team back in high school.
+Have had experience in video game reverse engineering and the basics of control theory.
 Interested in the intersection of robotics, computer science and neuroscience (basically Neural Network), as well as astronautical stuff
