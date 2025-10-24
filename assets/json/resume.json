@@ -48,7 +48,9 @@
       "startDate": "2023-08",
       "endDate": "2025-03",
       "summary": "",
-      "highlights": ["a graph based state machine that abstracts robot behaviors into states(angle and height of our arm on Elevator mechanism) as node and allowable transitions as edges"]
+      "highlights": [
+        "a graph based state machine that abstracts robot behaviors into states(angle and height of our arm on Elevator mechanism) as node and allowable transitions as edges"
+      ]
     }
   ],
   "education": [
@@ -83,21 +85,13 @@
       "name": "Robotics",
       "level": "Beginner",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Inverse Kinematics",
-        "Basic Optimization",
-        "Motion Planning"
-      ]
+      "keywords": ["Inverse Kinematics", "Basic Optimization", "Motion Planning"]
     },
     {
       "name": "Game Inverse Engineering",
       "level": "Beginner",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "virtual machine DMA based on Memprocfs",
-        "External ray-casting",
-        "CR3 fix (out dated)"
-      ]
+      "keywords": ["virtual machine DMA based on Memprocfs", "External ray-casting", "CR3 fix (out dated)"]
     }
   ],
   "languages": [
@@ -116,18 +110,12 @@
     {
       "name": "Enginerring",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "MCU (small projects with STM32)",
-        "G-FOLD (convex optimization, still tring to understand it...)"
-      ]
+      "keywords": ["MCU (small projects with STM32)", "G-FOLD (convex optimization, still tring to understand it...)"]
     },
     {
       "name": "Chinese Numerology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Liu Yao",
-        "Bazi"
-      ]
+      "keywords": ["Liu Yao", "Bazi"]
     }
   ],
   "publications": [

@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: My github acccount status & repositories 
+description: My github acccount status & repositories
 nav: true
 nav_order: 3
 ---
