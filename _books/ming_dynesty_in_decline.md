@@ -8,5 +8,7 @@ tags: books
 started: 2025-10-19
 date: 2025-10-19
 released: 1997-05
-status: reading # abandoned,finished,interested,paused,queued,reading,reread
+status: abandoned # abandoned,finished,interested,paused,queued,reading,reread
 ---
+
+目前还没文化水平来读
