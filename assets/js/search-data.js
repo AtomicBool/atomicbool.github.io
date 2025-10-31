@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-3-idiots",
+            },{id: "post-sample-post",
+        
+          title: "Sample Post",
+        
+        description: "sample post",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/init/";
+          
+        },
+      },{id: "books-3-idiots",
           title: '3 Idiots',
           description: "",
           section: "Books",handler: () => {
@@ -177,6 +188,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/battle_of_red_cliffs/";
+            },},{id: "books-the-devil-39-s-advocate",
+          title: 'The Devil&amp;#39;s Advocate',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/devils_advocate/";
             },},{
         id: 'social-email',
         title: 'email',
